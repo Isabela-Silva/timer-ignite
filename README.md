@@ -2,6 +2,9 @@
 
 Trata-se de um temporizador desenvolvido em React.js e Typescript, projetado para monitorar o tempo de cada tarefa, enquanto também oferece um histórico que permite visualizar as tarefas passadas, identificando aquelas que foram concluídas, interrompidas ou estão em andamento.
 
+## Acesse o projeto aqui! 🦄
+https://timer-ignite-phi.vercel.app/
+
 ## Conceitos estudados ✨
 
 - ``Styled-componentes``
@@ -18,6 +21,3 @@ Trata-se de um temporizador desenvolvido em React.js e Typescript, projetado par
 
 
 https://github.com/Isabela-Silva/timer-ignite/assets/72450422/d8e5ebf0-4dce-4577-b2ea-4244d0b1fb94
-
-
-- 
